@@ -37,18 +37,27 @@
 ## 📁 Featured Projects
 
 ### [news-app](https://github.com/ntungare/news-app)
+
 > React SSR based News Website. Showcasing Server-Side Rendering capabilities with React.
 
+### [tf-aws-vpc](https://github.com/ntungare/tf-aws-vpc)
+
+> Terraform implementation for managing AWS VPC environments using modular components. Automatically detects AZs and creates high availability subnets.
+
 ### [kube-metrics](https://github.com/ntungare/kube-metrics)
+
 > Helmfile repo to host CRDs and Prometheus + Grafana Stack for Kubernetes monitoring.
 
 ### [kube-gitea](https://github.com/ntungare/kube-gitea)
+
 > Helmfile repo to host Gitea, PostgreSQL, and Redis Stack for local/personally hosted Git Service with local persistent volumes and easy backup utilities.
 
-### [graphql-codegen-example](https://github.com/ntungare/graphql-codegen-example)
+### [example-graphql-codegen](https://github.com/ntungare/example-graphql-codegen)
+
 > Demonstrates how to use GraphQL Code Generator with TypeScript and the Countries API.
 
-### [grpc-example](https://github.com/ntungare/grpc-example)
+### [example-grpc](https://github.com/ntungare/example-grpc)
+
 > Example repo with Java-based gRPC server and multiple clients. Demonstrates efficient inter-service communication.
 
 ---
@@ -138,6 +147,12 @@
 
 ### Infra
 
+<a href="https://www.terraform.io/">
+  <img
+    alt="Terraform"
+    src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"
+  />
+</a>
 <a href="https://www.docker.com/">
   <img
     alt="Docker"
@@ -181,8 +196,7 @@
   />
 </a>
 
-> **DevOps** and **Infra** is mostly a 'curiosity killed the cat' situation for me. I love seeing what's out there, so I've tinkered with everything from **podman** and **podman-compose** to running local K8s clusters with **k3s**, **k3d**, or **kind**.
-
+> **DevOps** and **Infra** is mostly a 'curiosity killed the cat' situation for me. I love seeing what's out there, so I've tinkered with everything from **Terraform** for managing infrastructure, to **podman** and **podman-compose**, and running local K8s clusters with **k3s**, **k3d**, or **kind**.
 
 ---
 
@@ -195,6 +209,6 @@ I'm always open to chatting about tech, open-source, or new opportunities. Feel 
     alt="LinkedIn"
     src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   />
-</a>  
+</a>
 
 </div>
