@@ -36,21 +36,7 @@
 
 ## 📁 Featured Projects
 
-### [news-app](https://github.com/ntungare/news-app)
-
-> React SSR based News Website. Showcasing Server-Side Rendering capabilities with React.
-
-### [tf-aws-vpc](https://github.com/ntungare/tf-aws-vpc)
-
-> Terraform implementation for managing AWS VPC environments using modular components. Automatically detects AZs and creates high availability subnets.
-
-### [kube-metrics](https://github.com/ntungare/kube-metrics)
-
-> Helmfile repo to host CRDs and Prometheus + Grafana Stack for Kubernetes monitoring.
-
-### [kube-gitea](https://github.com/ntungare/kube-gitea)
-
-> Helmfile repo to host Gitea, PostgreSQL, and Redis Stack for local/personally hosted Git Service with local persistent volumes and easy backup utilities.
+<!-- NOTE FOR FUTURE AGENTS: The repos below are listed in ALPHABETICAL ORDER by project name. When adding, removing, or re-sorting entries here, keep them alphabetized. -->
 
 ### [example-graphql-codegen](https://github.com/ntungare/example-graphql-codegen)
 
@@ -59,6 +45,42 @@
 ### [example-grpc](https://github.com/ntungare/example-grpc)
 
 > Example repo with Java-based gRPC server and multiple clients. Demonstrates efficient inter-service communication.
+
+### [example-kafka](https://github.com/ntungare/example-kafka)
+
+> Example project with one Apache Kafka producer and multiple consumers.
+
+### [example-real-time-events](https://github.com/ntungare/example-real-time-events)
+
+> Example of using Websockets and Server Sent Events (SSE) in a React frontend for real-time updates.
+
+### [kube-gitea](https://github.com/ntungare/kube-gitea)
+
+> Helmfile repo to host Gitea, PostgreSQL, and Redis Stack for local/personally hosted Git Service with local persistent volumes and easy backup utilities.
+
+### [kube-metrics](https://github.com/ntungare/kube-metrics)
+
+> Helmfile repo to host CRDs and Prometheus + Grafana Stack for Kubernetes monitoring.
+
+### [login-passkey](https://github.com/ntungare/login-passkey)
+
+> Example SSR React app demonstrating passkey (WebAuthn) login with usernameless sign-in, conditional autofill, and password fallback. Built with Express + React + TypeScript.
+
+### [news-app](https://github.com/ntungare/news-app)
+
+> React SSR based News Website. Showcasing Server-Side Rendering capabilities with React.
+
+### [stock-price-predictor](https://github.com/ntungare/stock-price-predictor)
+
+> Example project for a stock price predictor.
+
+### [test-avro-cli](https://github.com/ntungare/test-avro-cli)
+
+> Trial CLI for Avro code generation, cross-language.
+
+### [tf-aws-vpc](https://github.com/ntungare/tf-aws-vpc)
+
+> Terraform implementation for managing AWS VPC environments using modular components. Automatically detects AZs and creates high availability subnets.
 
 ---
 
